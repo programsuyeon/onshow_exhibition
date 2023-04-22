@@ -100,7 +100,7 @@
 		<div class="col">고객센터</div>
 	</div>
 	
-	<div class="navmenu row bg-primary">
+ 	<div class="navmenu row bg-primary">
 		<div class="col navmenues">
 			<a class="dropdown-item" href="info.com">회사소개</a>
 			<a class="dropdown-item" href="location.com">찾아오시는길</a>
@@ -123,9 +123,9 @@
 			<a class="dropdown-item" href="list.inq">1:1문의</a>
 		</div>
 	</div>
-</div>
+</div> 
 
-<!-- 네비 메뉴바 -->
+<!-- 네비 메뉴바 2-->
 <%-- <div align="center">
 <nav class="navbar navbar-expand-lg border-bottom border-light my-3 pb-2">
 	<button class="navbar-toggler" type="button" data-toggle="collapse"	data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
@@ -173,4 +173,4 @@
 		</ul>
 	</div>
 </nav>
-</div> --%>
+</div>  --%>
