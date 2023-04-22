@@ -61,7 +61,7 @@
 <div class="w-100 row m-0 h-25">
 	<div class="col"></div>
 	<div class="col-5 d-flex justify-content-center">
-		<a href="user.jsp"><img src="resources/image/onshow.png" width="300px"></a>
+		<a href="user.jsp"><img src="resources/image/banner.PNG" width="300px"></a>
 	</div>
 	<div class="col">
 		<form class="form-inline" style="position:absolute; top:100px; right:20px">
@@ -83,12 +83,12 @@
 <style>
 	.cursor{cursor: pointer;}
 	.navtitle{
-		height: 50px;
-		width: 100%;
-		padding-top: 10px;
+		line-height: 60px;
+		text-align: center;
+		height: 60px; width: 100%;
 		color: white;
 		font-size: 18px;
-		font-family: "맑은 고딕";
+		font-family: "나눔바른고딕";
 	}
 	.navmenu{
 		height: 160px;
@@ -96,7 +96,7 @@
 		padding-top: 5px; padding-bottom: 15px;
 		color: white;
 		font-size: 16px;
-		font-family: "맑은 고딕";
+		font-family: "나눔바른고딕";
 		z-index: 100;
 	}
 	.navmenues{
@@ -107,7 +107,7 @@
 </style>
 
 <!-- 네비 메뉴바 -->
-<div align="center" class="mb-5">
+<div align="center">
 	<div class="navtitle row cursor bg-primary">
 		<div class="col">회사소개</div>
 		<div class="col">전시·박람</div>
