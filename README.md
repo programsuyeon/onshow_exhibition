@@ -1,5 +1,5 @@
 # Onshow_exhibition
-Teamproject_Exhibition website //
+Spring Framework based Teamproject (Exhibition Website) //
 2021.04.06 ~ 2021.04.21
 - Spring
 - Mybatis
